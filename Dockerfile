@@ -5,8 +5,8 @@ MAINTAINER Eugene Zbiranik <ezbiranik@gmail.com>
 
 ENV LANG en_US.UTF-8
 
-ENV _3PROXY_VERSION 0.8.11
-ENV _3PROXY_DOWNLOAD_URL https://github.com/z3APA3A/3proxy/archive/0.8.11.tar.gz
+ENV _3PROXY_VERSION 0.8.12
+ENV _3PROXY_DOWNLOAD_URL https://github.com/z3APA3A/3proxy/archive/0.8.12.tar.gz
 ENV _3PROXY_DOWNLOAD_SHA1 d97537c0e2149a250640f9c3341502d3853c2da8
 
 RUN set -ex \
